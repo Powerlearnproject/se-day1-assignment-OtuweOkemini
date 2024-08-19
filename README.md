@@ -13,7 +13,6 @@ Identify and describe at least three key milestones in the evolution of software
 1960s: the term software engineering was coined 
 2000s: the rise of agile methodologies
 
-
 List and briefly explain the phases of the Software Development Life Cycle.
 requirements: this the collection of user needs
 design is identifying the problem
@@ -21,7 +20,6 @@ implementation is creating a solution for the problem
 testing is testing out the software that was created to solve the problem
 deployment is releasing the software to users
 maintenance is adding or removing feature in a software as a means of enhancing it
-
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall and agile are both methodologies that guide the process of software development
@@ -43,9 +41,7 @@ integration testing is the testing of individual software components together an
 system testing is the testing of the entire software system and it is important in ensuring that the software functions correctly and free of any defects
 acceptance testing is the testing of a software to ensure that it provides value to the end user and it is important because it helps in managing risk
 
-
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models
 prompt engineering involves giving specific instructions when using AI and it helps the AI be more clear in giving result
